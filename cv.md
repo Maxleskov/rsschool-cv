@@ -6,7 +6,7 @@
 * GitHub: Maxleskov
 * Telegram: @Maxwellz53
 ## About Me
-I am 23 years old. I work as a non-destructive testing specialist. Recently, I learned about the front-end developer profession, and this direction interested me. I learned about Rolling Scopes courses on the Internet and signed up for my first front-end development course.
+I am 23 years old. I work as a non-destructive testing specialist. Recently, I learned about the front-end developer profession, and this direction interested me. I learned about Rolling Scopes courses on the Internet and signed up for my first front-end development course.I always strive to learn something new and interesting.
 ## Skills
 * HTML basics
 * VSCode
@@ -27,4 +27,9 @@ describe("Multiply", () => {
 ## Education
 * **Novgorod construction college**
   * Construction technician
+* **Novgorod State Institute**
+  * Management
+## Language:
+English level - A2
+
 
