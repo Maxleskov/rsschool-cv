@@ -12,8 +12,7 @@ I am 23 years old. I work as a non-destructive testing specialist. Recently, I l
 * VSCode
 * GitHub
 ## Code examples
-
-```
+```html
 const assert = require("chai").assert;
 
 describe("Multiply", () => {
@@ -25,7 +24,6 @@ describe("Multiply", () => {
   });
 });
 ```
-
 ## Education
 * **Novgorod construction college**
   * Construction technician
