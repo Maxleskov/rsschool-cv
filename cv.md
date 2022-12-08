@@ -12,6 +12,8 @@ I am 23 years old. I work as a non-destructive testing specialist. Recently, I l
 * VSCode
 * GitHub
 ## Code examples
+    
+```
     const assert = require("chai").assert;
 
     describe("Multiply", () => {
@@ -22,6 +24,8 @@ I am 23 years old. I work as a non-destructive testing specialist. Recently, I l
     assert.strictEqual(multiply(3,5), 15);   
     });
     });
+```
+
 ## Education
 * **Novgorod construction college**
   * Construction technician
