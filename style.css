@@ -10,14 +10,17 @@ body {
   * {
     box-sizing: border-box;
   }
-header {
-    border: 1px solid red
+.header {
+    border: 1px solid red;
+    background-color: #333333;
 }
-main {
-    border: 1px solid red
+.main {
+    border: 1px solid red;
+    background-color: #999999;
 }
-footer {
-    border: 1px solid red
+.footer {
+    border: 1px solid red;
+    background-color: #FFFFCC;
 }
 .container {
     max-width: 1440px;
@@ -31,23 +34,23 @@ footer {
     font-size: larger; 
     
 }
-html {
+.html {
     scroll-behavior: smooth;
 }
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
     text-decoration: none;
-    color: goldenrod;
+    color: #999999;
     transition: 0,3s;
 }
 .nav-list a {
-    color: #829985;
+    color: #999999
     text-decoration: none;
     transition: color 0.5s;
   }
   .nav-list a:hover {
-    color: #4d2323;
+    color:#fff7f7;
   }
   .photo {
     width: 350px;
@@ -67,23 +70,24 @@ html {
 
 .section {
   width: 50%;
+  color: #df0a0a;
 }
 @media (max-width: 768px) {
   .section {
     width: 100%;
   }
 }
-body {
+.body {
   font-family: "Roboto", sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #4d2323;
+  color: #df0a0a;
 }
 .section-title {
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: #829985;
+  color: #333333;
 }
